@@ -75,7 +75,7 @@ export const tabs = [
     },
     {
         icon: 'lightbulb',
-        label: 'Resources',
-        dest: '/resources',
+        label: 'Go to Sleeper',
+        dest: `https://sleeper.app/leagues/${leagueID}`,
     },
 ];
