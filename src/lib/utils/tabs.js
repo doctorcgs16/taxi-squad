@@ -7,9 +7,9 @@ export const tabs = [
         dest: 'https://extraordinarilyfreshffl.com/',
     },
     {
-        icon: 'sports',
-        label: 'Matchups',
-        dest: '/matchups',
+        icon: 'view_comfy',
+        label: 'Taxi Squad Draft',
+        dest: '/drafts',
     },
     {
         icon: 'swap_horiz',
@@ -18,7 +18,7 @@ export const tabs = [
     },
     {
         icon: 'storage',
-        label: 'Rosters',
+        label: 'Taxi Squad Rosters',
         dest: '/rosters',
     },
     {
