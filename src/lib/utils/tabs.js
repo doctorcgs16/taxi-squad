@@ -2,9 +2,9 @@ import {leagueID} from '$lib/utils/leagueInfo';
 
 export const tabs = [
     {
-        icon: 'home',
-        label: 'Home',
-        dest: '/',
+        icon: 'sports_football',
+        label: 'League Website',
+        dest: 'https://extraordinarilyfreshffl.com/',
     },
     {
         icon: 'sports',
@@ -13,13 +13,13 @@ export const tabs = [
     },
     {
         icon: 'swap_horiz',
-        label: 'Trades & Waivers',
+        label: 'Taxi Squad Transactions',
         dest: '/transactions',
     },
     {
-        icon: 'article',
-        label: 'Blog',
-        dest: '/blog',
+        icon: 'storage',
+        label: 'Rosters',
+        dest: '/rosters',
     },
     {
         icon: 'view_comfy',
