@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "917431315564253184"; // your league ID
+export const leagueID = "1053894492312432640"; // your league ID
 export const leagueName = "EF Taxi Squad"; // your league name
 export const dues = 105; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
