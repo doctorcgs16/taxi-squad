@@ -7,24 +7,19 @@ export const tabs = [
         dest: 'https://extraordinarilyfreshffl.com/',
     },
     {
-        icon: 'storage',
-        label: 'Taxi Rosters',
-        dest: '/rosters',
-    },
-    {
-        icon: 'swap_horiz',
-        label: 'Taxi Transactions',
-        dest: 'https://extraordinarilyfreshffl.com/taxi-squad-transactions/',
-    },
-    {
-        icon: 'leaderboard',
-        label: 'Current Draft',
+        icon: 'view_comfy',
+        label: 'Taxi Squad Draft',
         dest: '/drafts',
     },
     {
-        icon: 'view_comfy',
-       label: 'Taxi Draft Summary',
-        dest: 'https://extraordinarilyfreshffl.com/taxi-squad-draft/',
+        icon: 'swap_horiz',
+        label: 'Taxi Squad Transactions',
+        dest: '/transactions',
+    },
+    {
+        icon: 'storage',
+        label: 'Taxi Squad Rosters',
+        dest: '/rosters',
     },
     {
         icon: 'lightbulb',
