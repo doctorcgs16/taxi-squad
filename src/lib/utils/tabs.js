@@ -8,7 +8,7 @@ export const tabs = [
     },
     {
         icon: 'storage',
-        label: 'Rosters',
+        label: 'Taxi Squad Rosters',
         dest: '/rosters',
     },
     {
