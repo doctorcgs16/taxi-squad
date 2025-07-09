@@ -22,6 +22,11 @@ export const tabs = [
         dest: '/rosters',
     },
     {
+        icon: 'leaderboard',
+        label: 'Rankings',
+        dest: 'https://extraordinarilyfreshffl.com/taxi-squad-draft/',
+    },
+    {
         icon: 'lightbulb',
         label: 'Go to Sleeper',
         dest: `https://sleeper.app/leagues/${leagueID}`,
