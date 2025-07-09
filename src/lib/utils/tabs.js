@@ -8,12 +8,12 @@ export const tabs = [
     },
     {
         icon: 'storage',
-        label: 'Taxi Squad Rosters',
+        label: 'Taxi Rosters',
         dest: '/rosters',
     },
     {
         icon: 'swap_horiz',
-        label: 'Taxi Squad Transactions',
+        label: 'Taxi Transactions',
         dest: 'https://extraordinarilyfreshffl.com/taxi-squad-transactions/',
     },
     {
@@ -23,7 +23,7 @@ export const tabs = [
     },
     {
         icon: 'view_comfy',
-       label: 'Taxi Squad Draft',
+       label: 'Taxi Draft Summary',
         dest: 'https://extraordinarilyfreshffl.com/taxi-squad-draft/',
     },
     {
